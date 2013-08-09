@@ -1,0 +1,7 @@
+{
+  "name": "node-meta",
+  "version": "0.0.1",
+  "scripts": {
+    "postinstall": "node index"
+  }
+}
